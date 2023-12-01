@@ -1,0 +1,443 @@
+P {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.introduction-title{
+  font-size: 18px;
+  font-weight: bold;
+  width:300px;
+  line-height: 26px;
+  margin-bottom: 20px;
+}
+.introduction-body{
+  font-size: 16px;
+  margin-bottom: 20px;
+  color: rgb(96, 96, 96);
+  text-decoration-line: underline;
+}
+.Text-style{
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 26px;
+  margin-bottom: 20px;
+}
+
+.introduction-2{
+  font-size: 16px;
+  margin-bottom: 15px;
+  color:rgb(44, 202, 23);
+  text-decoration: underline;
+}
+
+.introduction-3{
+  font-size: 16px;
+  margin-bottom: 15px;
+  color: rgb(200, 0, 0);
+  text-decoration: underline;
+}
+
+.introduction-4{
+  font-size: 16px;
+  margin-bottom: 15px;
+  color: rgb(29, 155, 240);
+  text-decoration: underline;
+}
+
+.introduction-5{
+  font-size: 15px;
+  margin-bottom: 15px;
+  color: rgb(181, 153, 14);
+  text-decoration: underline;
+}
+
+.video-title{
+  font-size: 20px;
+  font-weight: bold;
+  width: 300px;
+  line-height: 26px;
+  margin-bottom: 10px;
+}
+.video-body{
+  font-size:20px;
+  font-family: Arial;
+  color: rgb(96, 96, 96); 
+  margin-bottom: 20px;
+}
+.video-aurthor{
+  font-size: 20px;
+  color: rgb(96, 96, 96);
+  margin-bottom: 20px;
+}
+.video-description{
+  color: rgb(96, 96, 96);
+  font-size: 20px;
+  margin-bottom: 30px;
+  width: 300px;
+}
+
+.subscribe-button{
+  background-color: rgb(200, 0, 0);
+  color: white;
+  border: none;
+  height: 36px;
+  width: 105px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 6px;
+  padding-right: 6px;
+  text-align: top;
+  margin-bottom: 100px;
+}
+
+.subscribe-button:hover{
+  opacity: 0.7;
+}
+
+.subscribe-button:active{
+  opacity: 0.5;
+}
+
+.Sign-button{
+  background-color: rgb(46, 164, 79);
+  color: white;
+  border: none;
+  font-size: 18px;
+  font-weight: bold;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 15px;
+  padding-left: 15px;
+  border-radius: 10px;
+  width: 80px;
+  cursor: pointer;
+  transition: padding-top 1s,
+   padding-bottom 1s,
+    padding-right 1s,
+     padding-left 1s;
+}
+.Sign-button:hover{
+  background-color: rgb(19, 100, 18);
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-right: 36px;
+  padding-left: 36px;
+}
+.Sign-button:active{
+  background-color: rgb(78, 216, 76);
+  color: black;
+  opacity: 0.6;
+}
+
+.Login-button{
+  font: 16px;
+  background-color: rgb(24, 117, 224);
+  color: white;
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-family: Arial;
+  border-radius: 30px;
+  cursor: pointer;
+  font-size: 15px;
+  width: 300px;
+  line-height: 26px;
+  margin-bottom: 10px;
+}
+.Login-button:hover{
+  opacity: 0.6;
+}
+.Login-button:active{
+  opacity: 0.5;
+}
+.Facebook-title{
+  color: #1877f2;;
+  font-size: 30px;
+  font-weight: bold;
+  width: 300px;
+  font-weight: bold;
+  line-height: 26px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  display: block;
+}
+
+.Login-box{
+  font-size: 18px;
+  border-color: #1b74e4;
+  margin-bottom: 3px;
+  line-height: 26px;
+  color:gray;
+}
+.User-box{
+  color: #1877f2;
+  font-size: 18px;
+  margin-bottom: 2px;
+  line-height: 26px;
+  display: block;
+  color: gray;
+}
+
+.Forgotten-button{
+  color: #1877f2;
+  line-height: 26px;
+  font-size: 18px;
+  cursor: pointer;
+  margin-left: 80px;
+  margin-bottom: 40px;
+}
+.Forgotten-button:hover{
+  text-decoration: underline;
+}
+.Forgotten-button:active{
+  opacity: 0.6;
+}
+
+.Create-button{
+  font-size: 15px;
+  background-color: #42b72a;
+  color: white;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 20px;
+  padding-right: 20px;
+  cursor: pointer;
+  font-family: Arial;
+  border-radius: 30px;
+  width: 260px;
+  line-height: 26px;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 60px;
+}
+
+.Create-button:hover{
+  background-color: #42b72a;
+  color: white;
+  opacity: 0.6;
+}
+
+.Create-button:active{
+  color: black;
+  opacity: 0.5;
+}
+.Shop-text{
+  font-size: 16px;
+  background-color: rgb(277, 65, 64);
+  color: white;
+  text-align: center;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  cursor: pointer;
+  margin-left: 16px;
+  margin-bottom: 80px;
+
+}
+.click-text{
+  color:white;
+  display: inline;
+
+}
+.click-text:hover{
+  text-decoration: underline;
+}
+.click-text:active{
+  opacity: 0.6;
+}
+
+.Linkedin-title{
+ background-color: rgb(59, 156, 231);
+ font-size: 20px;
+ font-weight: bold;
+ color: white;
+ text-align: center;
+ margin-bottom: 10px;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ margin-left: 100px;
+ margin-right: 100px;
+ border-radius: 80px;
+}
+
+.Linkedin-caption{
+ background-color: rgb(59, 156, 231);
+ font-family: Arial;
+ color:white;
+ font-size: 16px;
+ text-align: center;
+ margin-left: 100px;
+ margin-right: 100px;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ border-radius: 80px;
+}
+.Firstname-box{
+ font-family: Arial;
+ font-size: 16px;
+ text-align: center;
+ margin-top: 5px;
+ text-align: top;
+ margin-bottom: 20px;
+ color: gray;
+}
+
+.Lastname-box{
+ font-family: Aria;;
+ font-size: 16px;
+ text-align: center;
+ margin-top: 5px;
+ margin-right: 5px;
+ color:gray;
+ margin-bottom: 20px;
+
+}
+
+.Email-box{
+ font-family: Arial;
+ font-size: 16px;
+ text-align: center;
+ margin-top: 5px;
+ margin-right: 30px;
+ color: gray;
+ margin-bottom: 20px;
+}
+
+.Password-box{
+ font-family: Arial;
+ font-size: 16px;
+ text-align: center;
+ margin-top: 5px;
+ margin-left: 165px;
+ color: gray;
+ margin-bottom: 20px;
+}
+
+.regulations-text{
+ font-size: 16px;
+ font-family: Arial;
+ text-align: center;
+ color: gray;
+ margin-bottom: 20px;
+}
+
+.Agree-text{
+ color: black;
+ font-weight: bold;
+ font-family: Arial;
+}
+
+
+.Join-button{
+ background-color: rgb(55, 126, 232);
+ color: white;
+ width: 150px;
+ margin-left: 600px;
+ border: none;
+ border-radius: 10px;
+ padding-left: 6px;
+ padding-right: 6px;
+ padding-top: 6px;
+ padding-bottom: 6px;
+ cursor: pointer;
+ font-size: 16px;
+}
+.Join-button:hover{
+ opacity: 0.6;
+}
+.Join-button:active{
+ opacity: 0.4;
+ color: black;
+}
+
+.or-text{
+ margin-left: 665px;
+ color: gray;
+ margin-top: 10px;
+ margin-bottom: 10px;
+ font-weight: bold;
+ font-family: Arial;
+}
+
+.Continue-button{
+ margin-left: 580px;
+ background-color: #0e62d0;
+ color: white;
+ padding-left: 8px;
+ padding-right: 8px;
+ padding-bottom: 8px;
+ padding-top: 8px;
+ cursor: pointer;
+ border: none;
+ border-radius: 6px;
+ font-size: 16px;
+ margin-bottom: 10px;
+ font-family: Arial;
+}
+.Continue-button:hover{
+ opacity: 0.6;
+}
+.Continue-button:active{
+ opacity: 0.4;
+ color: black;
+}
+
+.Already-text{
+ margin-left: 580px;
+ font-size: 16px;
+ font-family: Arial;
+ cursor: pointer;
+ margin-bottom: 100px;
+}
+.sign-text{
+ color: rgb(29, 155, 240);
+ font-size: 16px;
+ cursor: pointer;
+ text-decoration: underline;
+}
+
+.sign-text:hover{
+ opacity: 0.6;
+}
+
+.sign-text:active{
+ color: rgb(29, 155, 240);
+ opacity: 0.4;
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
